@@ -1,0 +1,10 @@
+{
+	"id": "md2jupyter",
+	"name": "Md2Jupyter",
+	"version": "1.5.0",
+	"minAppVersion": "1.8.4",
+	"description": "Execute Python code in Obsidian markdown and sync with Jupyter notebooks.",
+	"author": "LYL",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
